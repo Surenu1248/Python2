@@ -1,0 +1,6 @@
+('Words count at line ', 1, 'is : ', 4)
+('Characters count at line ', 1, 'is : ', 25)
+('Words count at line ', 2, 'is : ', 11)
+('Characters count at line ', 2, 'is : ', 48)
+('Words count at line ', 3, 'is : ', 17)
+('Characters count at line ', 3, 'is : ', 72)
