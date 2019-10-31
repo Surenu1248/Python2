@@ -8,3 +8,5 @@ if b == 0:
     print("File does'nt contains anything...(0 Bytes)")
 else:
     print("File size is : %d" % b)
+
+# It tells about the file size of the given file.
