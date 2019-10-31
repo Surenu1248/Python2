@@ -7,6 +7,8 @@ seclist = mylist[:]
 print (seclist)
 mylist.append(5)
 print (seclist)
+mylist.append(6)
+print(seclist)
 
 
 # -----------The above code will gives the following output----------
